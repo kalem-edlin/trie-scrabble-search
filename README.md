@@ -5,3 +5,6 @@ This is my implementation of a trie data strucutre which, from the root node, ca
 The creation of this application was in an attempt show my understanding of react by using multiple components, a router with useHistory and switches, conditional rendering, spreading and destructing, API calls using promises, react hooks, and state management.
 
 The trie algorithm is implemented in the Trie.js file in the config folder.
+
+![screenshot1](./screenshot1.png)
+![screenshot2](./screenshot2.png)
